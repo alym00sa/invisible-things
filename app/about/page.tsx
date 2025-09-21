@@ -5,7 +5,7 @@ export default function About() {
         about
       </h1>
       <div className="max-w-2xl mx-auto text-white text-center space-y-6 text-lg font-inter">
-        <p>two friends with too many ideas and thoughts. lowkey, let's see what happens with this.</p>
+        <p>two friends with too many ideas and thoughts. lowkey, let&apos;s see what happens with this.</p>
 
         <p>invisible things is our namesake for all the dumb, amazing, silly things we build. just trying to make the human experience more human.</p>
 

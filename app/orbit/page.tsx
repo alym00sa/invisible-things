@@ -9,7 +9,7 @@ export default function Orbit() {
           orbit
         </h1>
         <div className="max-w-3xl mx-auto text-white text-center space-y-6 text-lg font-inter">
-          <p>Habits are easier when they're shared. Orbit transforms daily routines into a social experience, where you and your friends grow a planet together with every streak. Your progress shapes the world — thrive and the planet flourishes, slip and it shows the impact. With Orbit, motivation feels less like a chore and more like a shared journey.</p>
+          <p>Habits are easier when they&apos;re shared. Orbit transforms daily routines into a social experience, where you and your friends grow a planet together with every streak. Your progress shapes the world — thrive and the planet flourishes, slip and it shows the impact. With Orbit, motivation feels less like a chore and more like a shared journey.</p>
 
           <p className="pt-4">Coming to an app store near you.</p>
         </div>

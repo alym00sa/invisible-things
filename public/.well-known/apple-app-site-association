@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "V6XLJUH6UU.com.magic.orbitapp",
+        "paths": ["/join/*"]
+      }
+    ]
+  }
+}

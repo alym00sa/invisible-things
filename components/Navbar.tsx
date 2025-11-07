@@ -11,7 +11,7 @@ export default function Navbar() {
     { href: "/about", label: "About" },
     { href: "/orbit", label: "Orbit" },
     { href: "/contact", label: "Contact" },
-    { href: "/privacy", label: "Privacy" },
+    { href: "/privacy-policy.html", label: "Privacy" },
   ];
 
   return (
